@@ -39,144 +39,39 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="13" />
-          <entry key="java" value="21" />
+          <entry key="html" value="15" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="13" />
-          <entry key="JAVA" value="21" />
+          <entry key="HTML" value="15" />
+          <entry key="JAVA" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="165" />
-          <entry key="java" value="1710" />
+          <entry key="java" value="2416" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="165" />
-          <entry key="JAVA" value="1710" />
+          <entry key="JAVA" value="2416" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/IngredientController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/UnitOfMeasureService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/IngredientServiceImplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/UnitOfMeasureServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/ingredient/list.html">
+        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/RecipeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="57" column="142" selection-start-line="57" selection-start-column="142" selection-end-line="57" selection-end-column="142" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/UnitOfMeasureServiceImplTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="252">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/IngredientControllerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="110" column="16" lean-forward="true" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,9 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/IndexControllerTest.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/repositories/UnitOfMeasureRepositoryIT.java" />
-        <option value="$PROJECT_DIR$/recipe-app/pom.xml" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/commands/CategoryCommand.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/commands/UnitOfMeasureCommand.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/commands/NotesCommand.java" />
@@ -221,34 +113,37 @@
         <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/RecipeCommandToRecipeTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/RecipeToRecipeCommandTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/commands/RecipeCommand.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Recipe.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/RecipeServiceIT.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/IngredientCommandToIngredientTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/IngredientToIngredientCommandTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/RecipeServiceImplTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/RecipeServiceImpl.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/RecipeService.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/RecipeControllerTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/RecipeController.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Ingredient.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/commands/IngredientCommand.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/converters/IngredientToIngredientCommand.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/converters/IngredientCommandToIngredient.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/ingredient/ingredientform.html" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/ingredient/show.html" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/recipeform.html" />
-        <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/show.html" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/UnitOfMeasureService.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientService.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientServiceImpl.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/IngredientServiceImplTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/UnitOfMeasureServiceImplTest.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/IngredientController.java" />
-        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/IngredientControllerTest.java" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/UnitOfMeasureServiceImpl.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Category.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Ingredient.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Recipe.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/UnitOfMeasure.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Notes.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/show.html" />
         <option value="$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/ingredient/list.html" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientService.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/IngredientController.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientServiceImpl.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/RecipeServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/IngredientServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/RecipeControllerTest.java" />
+        <option value="$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/IngredientControllerTest.java" />
       </list>
     </option>
   </component>
@@ -352,40 +247,6 @@
               <item name="recipe-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipe-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipe-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipe-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipe-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipe-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipe-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipe-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="recipe" type="462c0819:PsiDirectoryNode" />
-              <item name="ingredient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recipe-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recipe-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -438,7 +299,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532946280225" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532952292724" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -478,14 +339,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RecipeAppApplication">
+  <component name="RunManager" selected="JUnit.IngredientControllerTest.testDeleteIngredient">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IngredientControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in recipe-app" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="recipe-app" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IngredientControllerTest.testDeleteIngredient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="recipe-app" />
       <extension name="coverage">
         <pattern>
@@ -495,12 +365,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.tkartas.recipeapp.controllers" />
       <option name="MAIN_CLASS_NAME" value="com.tkartas.recipeapp.controllers.IngredientControllerTest" />
+      <option name="METHOD_NAME" value="testDeleteIngredient" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IngredientServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IngredientServiceImplTest.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="recipe-app" />
       <extension name="coverage">
         <pattern>
@@ -510,12 +382,31 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.tkartas.recipeapp.services" />
       <option name="MAIN_CLASS_NAME" value="com.tkartas.recipeapp.services.IngredientServiceImplTest" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecipeControllerTest.testDeleteAction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IngredientServiceImplTest.testSaveRecipeCommand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="recipe-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tkartas.recipeapp.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tkartas.recipeapp.services" />
+      <option name="MAIN_CLASS_NAME" value="com.tkartas.recipeapp.services.IngredientServiceImplTest" />
+      <option name="METHOD_NAME" value="testSaveRecipeCommand" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecipeControllerTest.testPostNewRecipeForm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="recipe-app" />
       <extension name="coverage">
         <pattern>
@@ -525,39 +416,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.tkartas.recipeapp.controllers" />
       <option name="MAIN_CLASS_NAME" value="com.tkartas.recipeapp.controllers.RecipeControllerTest" />
-      <option name="METHOD_NAME" value="testDeleteAction" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecipeServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="recipe-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tkartas.recipeapp.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tkartas.recipeapp.services" />
-      <option name="MAIN_CLASS_NAME" value="com.tkartas.recipeapp.services.RecipeServiceImplTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecipeServiceImplTest.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="recipe-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tkartas.recipeapp.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.tkartas.recipeapp.services" />
-      <option name="MAIN_CLASS_NAME" value="com.tkartas.recipeapp.services.RecipeServiceImplTest" />
-      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="METHOD_NAME" value="testPostNewRecipeForm" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -587,19 +446,19 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.RecipeAppApplication" />
-      <item itemvalue="JUnit.RecipeServiceImplTest" />
-      <item itemvalue="JUnit.RecipeServiceImplTest.testDeleteById" />
-      <item itemvalue="JUnit.RecipeControllerTest.testDeleteAction" />
-      <item itemvalue="JUnit.IngredientControllerTest" />
-      <item itemvalue="JUnit.IngredientServiceImplTest" />
+      <item itemvalue="JUnit.IngredientControllerTest.testDeleteIngredient" />
+      <item itemvalue="JUnit.IngredientServiceImplTest.testDeleteById" />
+      <item itemvalue="JUnit.IngredientServiceImplTest.testSaveRecipeCommand" />
+      <item itemvalue="JUnit.All in recipe-app" />
+      <item itemvalue="JUnit.RecipeControllerTest.testPostNewRecipeForm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IngredientControllerTest" />
-        <item itemvalue="JUnit.IngredientServiceImplTest" />
-        <item itemvalue="JUnit.RecipeServiceImplTest.testDeleteById" />
-        <item itemvalue="JUnit.RecipeControllerTest.testDeleteAction" />
-        <item itemvalue="JUnit.RecipeServiceImplTest" />
+        <item itemvalue="JUnit.IngredientControllerTest.testDeleteIngredient" />
+        <item itemvalue="JUnit.RecipeControllerTest.testPostNewRecipeForm" />
+        <item itemvalue="JUnit.All in recipe-app" />
+        <item itemvalue="JUnit.IngredientServiceImplTest.testSaveRecipeCommand" />
+        <item itemvalue="JUnit.IngredientServiceImplTest.testDeleteById" />
       </list>
     </recent_temporary>
   </component>
@@ -630,47 +489,47 @@
       <workItem from="1532811484469" duration="158000" />
       <workItem from="1532811666922" duration="251000" />
       <workItem from="1532933057973" duration="3827000" />
-      <workItem from="1532936897102" duration="3349000" />
+      <workItem from="1532936897102" duration="8555000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 07m 27s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="All_in_recipe-app - 2018.07.30 at 13h 58m 07s.xml">
+      <configuration name="All in recipe-app" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 08m 38s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 13h 59m 45s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 09m 44s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 14h 00m 02s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 09m 58s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 14h 00m 12s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 52m 19s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 14h 02m 04s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 55m 24s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 14h 03m 11s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 09h 59m 16s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 14h 03m 21s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 10h 01m 22s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="RecipeControllerTest_testPostNewRecipeForm - 2018.07.30 at 14h 03m 39s.xml">
+      <configuration name="RecipeControllerTest.testPostNewRecipeForm" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientServiceImplTest - 2018.07.30 at 12h 13m 08s.xml">
-      <configuration name="IngredientServiceImplTest" configurationId="JUnit" />
+    <history-entry file="IngredientControllerTest_testDeleteIngredient - 2018.07.30 at 14h 04m 12s.xml">
+      <configuration name="IngredientControllerTest.testDeleteIngredient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IngredientControllerTest - 2018.07.30 at 12h 16m 42s.xml">
-      <configuration name="IngredientControllerTest" configurationId="JUnit" />
+    <history-entry file="IngredientControllerTest_testDeleteIngredient - 2018.07.30 at 14h 04m 22s.xml">
+      <configuration name="IngredientControllerTest.testDeleteIngredient" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44729000" />
+    <option name="totallyTimeSpent" value="49935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
@@ -714,27 +573,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/CategoryToCategoryCommandTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/CategoryCommandToCategoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/UnitOfMeasureToUnitOfMeasureCommandTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/converters/UnitOfMeasureCommandToUnitOfMeasureTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -847,13 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Recipe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/commands/RecipeCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -903,58 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/RecipeServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/RecipeControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="94" column="48" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/RecipeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/RecipeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Ingredient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/RecipeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1012,13 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/show.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1039,57 +815,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/IngredientServiceImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/UnitOfMeasureServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/IngredientController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/IngredientControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="110" column="16" lean-forward="true" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1106,12 +835,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/ingredient/list.html">
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/show.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="57" column="142" selection-start-line="57" selection-start-column="142" selection-end-line="57" selection-end-column="142" />
+          <caret line="94" column="30" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/resources/templates/recipe/ingredient/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Ingredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/Recipe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/domain/UnitOfMeasure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/RecipeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/RecipeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/services/IngredientServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="131" column="38" lean-forward="true" selection-start-line="131" selection-start-column="38" selection-end-line="131" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/IngredientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="73" column="35" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/IngredientServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/RecipeControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/controllers/IngredientControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="134" column="5" lean-forward="true" selection-start-line="134" selection-start-column="5" selection-end-line="134" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/test/java/com/tkartas/recipeapp/services/RecipeServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="99" column="5" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipe-app/src/main/java/com/tkartas/recipeapp/controllers/RecipeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
