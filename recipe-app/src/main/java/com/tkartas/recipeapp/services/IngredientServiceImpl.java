@@ -32,7 +32,7 @@ public class IngredientServiceImpl implements IngredientService {
     }
 
     @Override
-    public IngredientCommand findByRecipeIdAndIngredientId(long recipeId, long ingredientId) {
+    public IngredientCommand findByRecipeIdAndIngredientId(Long recipeId, Long ingredientId) {
 
         Optional<Recipe> recipeOptional = recipeRepository.findById(recipeId);
 
@@ -44,7 +44,7 @@ public class IngredientServiceImpl implements IngredientService {
         Recipe recipe = recipeOptional.get();
 
         Optional<IngredientCommand> ingredientCommandOptional = recipe.getIngredients().stream()
-                .filter(ingredient -> ingredient.getId()==ingredientId)
+                .filter(ingredient -> ingredient.getId().equals(ingredientId))
                 .map( ingredient -> ingredientToIngredientCommand.convert(ingredient)).findFirst();
 
         if(!ingredientCommandOptional.isPresent()){
@@ -71,7 +71,7 @@ public class IngredientServiceImpl implements IngredientService {
             Optional<Ingredient> ingredientOptional = recipe
                     .getIngredients()
                     .stream()
-                    .filter(ingredient -> ingredient.getId()==command.getId())
+                    .filter(ingredient -> ingredient.getId().equals(command.getId()))
                     .findFirst();
 
             if(ingredientOptional.isPresent()){
@@ -91,7 +91,7 @@ public class IngredientServiceImpl implements IngredientService {
             Recipe savedRecipe = recipeRepository.save(recipe);
 
             Optional<Ingredient> savedIngredientOptional = savedRecipe.getIngredients().stream()
-                    .filter(recipeIngredients -> recipeIngredients.getId()==command.getId())
+                    .filter(recipeIngredients -> recipeIngredients.getId().equals(command.getId()))
                     .findFirst();
 
             //check by description
@@ -100,16 +100,18 @@ public class IngredientServiceImpl implements IngredientService {
                 savedIngredientOptional = savedRecipe.getIngredients().stream()
                         .filter(recipeIngredients -> recipeIngredients.getDescription().equals(command.getDescription()))
                         .filter(recipeIngredients -> recipeIngredients.getAmount().equals(command.getAmount()))
-                        .filter(recipeIngredients -> recipeIngredients.getUom().getId()==command.getUom().getId())
+                        .filter(recipeIngredients -> recipeIngredients.getUom().getId().equals(command.getUom().getId()))
                         .findFirst();
             }
+
             //to do check for fail
             return ingredientToIngredientCommand.convert(savedIngredientOptional.get());
         }
+
     }
 
     @Override
-    public void deleteById(long recipeId, long idToDelete) {
+    public void deleteById(Long recipeId, Long idToDelete) {
 
         log.debug("Deleting ingredient: " + recipeId + ":" + idToDelete);
 
@@ -122,7 +124,7 @@ public class IngredientServiceImpl implements IngredientService {
             Optional<Ingredient> ingredientOptional = recipe
                     .getIngredients()
                     .stream()
-                    .filter(ingredient -> ingredient.getId()==idToDelete)
+                    .filter(ingredient -> ingredient.getId().equals(idToDelete))
                     .findFirst();
 
             if(ingredientOptional.isPresent()){

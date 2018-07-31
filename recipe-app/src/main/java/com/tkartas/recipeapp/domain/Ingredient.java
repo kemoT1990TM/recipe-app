@@ -16,7 +16,7 @@ public class Ingredient {
     // == fields ==
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private Long id;
     private String description;
     private BigDecimal amount;
 

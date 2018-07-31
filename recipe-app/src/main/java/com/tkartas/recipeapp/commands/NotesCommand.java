@@ -8,6 +8,6 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 public class NotesCommand {
-    private long id;
+    private Long id;
     private String recipeNotes;
 }

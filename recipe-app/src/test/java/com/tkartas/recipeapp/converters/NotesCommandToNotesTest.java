@@ -11,7 +11,7 @@ import static org.junit.Assert.assertNull;
 
 public class NotesCommandToNotesTest {
 
-    public static final long ID_VALUE = 1L;
+    public static final Long ID_VALUE = 1L;
     public static final String RECIPE_NOTES = "Notes";
     NotesCommandToNotes converter;
 

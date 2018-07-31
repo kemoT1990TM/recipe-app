@@ -4,9 +4,9 @@ import com.tkartas.recipeapp.commands.IngredientCommand;
 
 public interface IngredientService {
 
-    IngredientCommand findByRecipeIdAndIngredientId(long recipeId, long ingredientId);
+    IngredientCommand findByRecipeIdAndIngredientId(Long recipeId, Long ingredientId);
 
     IngredientCommand saveIngredientCommand(IngredientCommand command);
 
-    void deleteById(long recipeId, long ingredientId);
+    void deleteById(Long recipeId, Long ingredientId);
 }
