@@ -1,11 +1,13 @@
 package com.tkartas.recipeapp.domain;
 
-import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.Getter;
+import lombok.Setter;
 
 import javax.persistence.*;
 
-@Data
+@Getter
+@Setter
 @EqualsAndHashCode(exclude = {"recipe"})
 @Entity
 public class Notes {
@@ -13,7 +15,7 @@ public class Notes {
     // == fields ==
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private Long id;
 
     @OneToOne
     private Recipe recipe;

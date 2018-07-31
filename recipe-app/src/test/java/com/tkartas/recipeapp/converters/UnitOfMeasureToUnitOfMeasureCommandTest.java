@@ -12,7 +12,7 @@ import static org.junit.Assert.assertNull;
 public class UnitOfMeasureToUnitOfMeasureCommandTest {
 
     public static final String DESCRIPTION="description";
-    public static final long LONG_VALUE=1L;
+    public static final Long LONG_VALUE=1L;
 
     UnitOfMeasureToUnitOfMeasureCommand converter;
 

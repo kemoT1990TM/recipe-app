@@ -1,26 +1,27 @@
 package com.tkartas.recipeapp.domain;
 
 import lombok.AccessLevel;
-import lombok.Data;
+import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
-@Data
+@Getter
+@Setter
 @Entity
 public class Recipe {
 
     // == fields ==
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long id;
+    private Long id;
 
     private String description;
-    private int prepTime;
-    private int cookTime;
-    private int servings;
+    private Integer prepTime;
+    private Integer cookTime;
+    private Integer servings;
     private String source;
     private String url;
 
